@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  iris-web:
+  - apiVersion: v2
+    appVersion: 2.4.5
+    created: "2024-03-04T18:02:38.531053616Z"
+    description: A Helm chart for Iris Web
+    digest: 90300743e0b00aadc591c2424e278a6cf7a00a5e3c182128f4882643b7f0b3f5
+    name: iris-web
+    type: application
+    urls:
+    - https://github.com/tylerobara/iris-web/releases/download/iris-web-0.1.1/iris-web-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-03-04T18:02:38.531083031Z"
