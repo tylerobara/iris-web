@@ -1,6 +1,5 @@
 name: Build and push WebApp image
 
-
 on:
   push:
     branches: [ "main" ]
